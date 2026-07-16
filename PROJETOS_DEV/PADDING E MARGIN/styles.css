@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+h1{
+    color: red; 
+    font-size: 64px;
+    font-weight: lighter;
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+    text-shadow: 10px 10px 20px red;
+}
+
+p{  
+    color:blue; /*troca a cor do texto*/
+    font-size:30px; /*troca o tamanho do texto*/
+    font-weight: 100; /*troca o peso do texto*/
+    font-family: "Roboto", sans-serif; /*troca a fonte do texto do google fonts*/
+    font-style: italic; /*troca o estilo do texto*/
+    line-height: 30px; /*espaço em linha*/
+    letter-spacing: 5px; /*espaço em letras*/
+    word-spacing: 10px; /*espaço em palavras*/
+    text-align: justify; /*formata o texto*/
+    text-transform: capitalize; /*transforma*/
+    text-decoration: underline; /*decora o texto*/
+    text-shadow: 10px 10px 10px blue; /*coloca sombra cima baixo lateral e cor*/
+}
+
+h2{
+    color:darkred;
+    font-size:32px;
+    font-weight: 100;
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+    text-shadow: 10px 10px 20px red;
+}

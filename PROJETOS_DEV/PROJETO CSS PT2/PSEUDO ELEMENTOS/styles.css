@@ -1,0 +1,30 @@
+/* PSEUDOS ELEMENTOS */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+input {
+    border: 1px solid red;
+    color: blue;
+    border-radius: 10px;
+}
+
+input::placeholder {
+    color: darkmagenta;
+    font-size: 8px;
+}
+
+p {
+    color: blue;
+}
+
+p::first-letter {
+    color: black;
+}
+
+p::first-line {
+    color: magenta;
+}

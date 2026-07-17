@@ -1,0 +1,19 @@
+/* PSEUDO CLASSES
+
+active -> quandoo elemento está ativo, ou seja, está sendo pressionado
+
+*/
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }

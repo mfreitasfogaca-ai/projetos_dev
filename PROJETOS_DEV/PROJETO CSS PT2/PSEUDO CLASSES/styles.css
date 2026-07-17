@@ -11,9 +11,7 @@ active -> quandoo elemento está ativo, ou seja, está sendo pressionado
     box-sizing: border-box;
     }
 
-a:active{
-    color: red;
-}    
+
   
 a:visited{
     color: chartreuse;
